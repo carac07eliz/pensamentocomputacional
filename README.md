@@ -1,1 +1,3 @@
-# pensamentocomputacional
+# pensamentocomputacional  
+
+kimberly neves
